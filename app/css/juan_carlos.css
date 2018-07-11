@@ -1,0 +1,59 @@
+#section3 {
+	font-size: 30px;
+	border: black solid 2px;
+}
+
+#section4 {
+	border: black solid 2px;
+}
+
+#section5 {
+	border: black solid 2px;
+	display: flex;
+}
+
+.linea1 {
+	display: inline-block;
+}
+
+.imagen_final {
+	height: 250px;
+	display: flex;
+	float: left;
+	border: black solid 1px;
+	float: left;
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+	border: black solid 2px;
+}
+
+.txt_final {
+	display: flex;
+	float: left;
+	border: black solid 1px;
+	float: left;
+	text-align: center;
+	margin: 5px;
+	padding: 10px;
+	border: black solid 2px;
+}
+
+.boton {
+	display: inline-block;
+
+}
+
+body {
+
+}
+
+p {
+	display: flex;
+	justify-content: center;
+}
+
+figure {
+	display: flex;
+	justify-content: center;
+}
