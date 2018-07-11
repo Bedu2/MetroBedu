@@ -16,3 +16,20 @@
     border: 1px solid black;
     padding: 0.5em 2em;
 }
+
+#mpg-welcome {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    display: block;
+    width: 100%;
+    background: url('../img/mpg-background-3.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+
+#mpg-welcome h2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
