@@ -22,6 +22,7 @@
     padding-bottom: 2em;
     display: block;
     width: 100%;
+    /* BG: https://www.flickr.com/photos/126337928@N05/30544390445 */
     background: url('../img/mpg-background-3.jpg');
     background-size: cover;
     background-position: center;
